@@ -6,4 +6,6 @@ while(a>0){
     b=a+m
     a=a/10
 }
-console.log(b)
+console.log(
+    "keivn"
+)
