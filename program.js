@@ -7,7 +7,7 @@ while(a>0){
     a=a/10
 }
 console.log(
-    "keiv]"
+    "kev]"
 
 
 
