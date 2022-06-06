@@ -5,3 +5,5 @@ for(let i=1;i<=number;i++){
   console.log(i+'³'+" = "+i+'*'+i+'*'+i+" = "+cube)
 }
 console.log("kevin")
+console.log("roland")
+
