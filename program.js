@@ -1,4 +1,4 @@
-let number =prompt("enter the number you want to cube")
+let number =8
 
 for(let i=1;i<=number;i++){
   let cube =i*i*i
