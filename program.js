@@ -6,5 +6,5 @@ for(let i=1;i<=number;i++){
 }
 console.log("kevin")
 console.log("roland")
-console.log("dkjfjjjj")
+console.log("ke")
 
